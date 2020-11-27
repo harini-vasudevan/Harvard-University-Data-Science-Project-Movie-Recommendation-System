@@ -1,5 +1,5 @@
 # Harvard-University-Data-Science-Project-Movie-Recommendation-System
-MovieLens Project - Penalized Least Squares Approach
+MovieLens Project - Penalized Least Squares Approach.
 This project has three files:
 1) A script in R format that generates your predicted movie ratings and RMSE score
 2) A report in R Markdown document. (Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents)
