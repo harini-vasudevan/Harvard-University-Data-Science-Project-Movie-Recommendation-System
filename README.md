@@ -7,4 +7,4 @@ This project has three files:
 
 Note:
 Few chunks of code in R script takes time to execute. Before you open R markdown file and run the file, Please ensure you have latest version of 'xfun' and 'knitr' packages. If not, it may throw some error. You can download the packages from https://cran.r-project.org/web/packages/xfun/index.html and
-https://cran.r-project.org/web/packages/knitr/index.html. Downloaded xfun version .19 in the windows binary "r-devel" area. Then installing it in RStudio by selecting package archive file option and then try tinytex::reinstall_tinytex(). You will able knit the Rmd file into pdf document as described.
+https://cran.r-project.org/web/packages/knitr/index.html. Download xfun version .19 in the windows binary "r-devel" area. Then installing it in RStudio by selecting package archive file option and then try tinytex::reinstall_tinytex(). You will able knit the Rmd file into pdf document as described.
